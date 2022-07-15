@@ -15,7 +15,7 @@ pocket-about-us-save-inspirations = 保存您的灵感
 # Variables:
 #   $save_to_pocket (url) link to https://getpocket.com/save-to-pocket
 #   $add_to_pocket (url) link to https://getpocket.com/add
-pocket-about-if-something-catches-your-interest = 如果有什么事引起您的兴趣，这其中必有什么值得一探究竟。使用我们的<a id="save-button-for-the-internet" href="{ $save_to_pocket }">互联网保存按钮</a>和我们备受赞誉的 <a id="top-pocket-app" href="{ $add_to_pocket }">{ -brand-name-pocket }</a> 应用，您就可以在毫无干扰的空间中保存网络上的任何内容，让您聚精会神，让思想自由流动。
+pocket-about-if-something-catches-your-interest = 如果有什么事引起您的兴趣，这其中必有什么值得一探究竟。使用我们的<a id="save-button-for-the-internet" href="{ $save_to_pocket }">互联网保存按钮</a>和我们备受赞誉的 <a id="top-pocket-app" href="{ $add_to_pocket }">{ -brand-name-pocket }应用</a>，您就可以在毫无干扰的空间中保存网络上的任何内容，让您聚精会神，让思想自由流动。
 
 pocket-about-find-hidden-gems = 寻找隐藏的珍宝
 
