@@ -12,7 +12,7 @@ pocket-home-homepage-desc = 나중에 천천히 읽어보고 싶은 콘텐츠를
 pocket-home-get-right-to = 나만의</br>콘텐츠 라이브러리
 pocket-home-your-own-private = 나만의 온라인 서재에서 양질의 아티클을 만나보세요.
 pocket-home-sign-up-for-pocket = { -brand-name-pocket } 가입하기
-pocket-home-already-have-an-account = 계정이 이미 있으십니까? { "" }
+pocket-home-already-have-an-account = 계정이 이미 있으십니까?
 pocket-home-log-in = 로그인
 
 pocket-home-save-interesting-stories = 흥미로운 스토리는 일단 저장 후 확인은 내가 원할 때 언제든지.

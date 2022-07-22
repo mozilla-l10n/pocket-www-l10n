@@ -12,7 +12,7 @@ pocket-home-homepage-desc = Lorsque vous trouvez du contenu que vous voulez cons
 pocket-home-get-right-to = Accédez directement </br>à la qualité
 pocket-home-your-own-private = Votre petit cocon sur le Web pour profiter d’articles de qualité.
 pocket-home-sign-up-for-pocket = S’inscrire à { -brand-name-pocket }
-pocket-home-already-have-an-account = Vous avez déjà un compte ? { "" }
+pocket-home-already-have-an-account = Vous avez déjà un compte ?
 pocket-home-log-in = Connexion
 
 pocket-home-save-interesting-stories = Sauvegardez des articles inspirants. Lisez-les quand vous voulez.

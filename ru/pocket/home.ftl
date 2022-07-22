@@ -12,7 +12,7 @@ pocket-home-homepage-desc = Если вы наткнулись на что-то 
 pocket-home-get-right-to = Переходите прямо к </br>самому интересному
 pocket-home-your-own-private = Ваш личный уголок в Интернете, где вы можете провести время с пользой, читая замечательные статьи.
 pocket-home-sign-up-for-pocket = Зарегистрируйтесь в { -brand-name-pocket }.
-pocket-home-already-have-an-account = У вас уже есть аккаунт? { "" }
+pocket-home-already-have-an-account = У вас уже есть аккаунт?
 pocket-home-log-in = Войти в систему
 
 pocket-home-save-interesting-stories = Сохраняйте интересные истории. Читайте их в удобное время.

@@ -12,7 +12,7 @@ pocket-home-homepage-desc = Als je iets vindt dat je later wilt bekijken, plaats
 pocket-home-get-right-to = Het kan </br>nog beter
 pocket-home-your-own-private = Je eigen privéhoekje op het internet om de artikelen te lezen die jij wilt.
 pocket-home-sign-up-for-pocket = Aanmelden voor { -brand-name-pocket }
-pocket-home-already-have-an-account = Heb je al een account? { "" }
+pocket-home-already-have-an-account = Heb je al een account?
 pocket-home-log-in = Inloggen
 
 pocket-home-save-interesting-stories = Bewaar interessante verhalen. Lees ze wanneer je maar wilt.
