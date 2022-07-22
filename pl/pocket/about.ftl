@@ -27,7 +27,7 @@ pocket-about-internet-filled-with-buried-treasures = W internecie aż roi się o
 #   $pocket_and_firefox_attrs (string) - attrs for hyperlink
 #   $pocket_daily_newsletter_attrs (string) - attrs for hyperlink
 #   $pocket_app_attrs (string) - attrs for hyperlink
-pocket-about-our-curators-vet-the-most-fascinating = Nasi specjaliści wybierają najciekawsze znaleziska obejmujące różnorodne publikacje z wiarygodnych źródeł, a my udostępniamy je na stronie <a { $pocket_home_attrs }>{ $pocket_home_domain }</a>, <a { $pocket_and_firefox_attrs }>{ -brand-name-pocket } dla przeglądarki { -brand-name-firefox }</a>, w naszym codziennym newsletterze &lt;a { $pocket_daily_newsletter_attrs }&quot;&gt;</a>, a także w <a { $pocket_app_attrs }>aplikacji { -brand-name-pocket }</a>. Nasze rekomendacje są dostępne głównie w języku angielskim i niemieckim, ale liczymy na to, że w przyszłości będziemy udostępniać więcej publikacji w innych językach.
+pocket-about-our-curators-vet-the-most-fascinating = Nasi specjaliści wybierają najciekawsze znaleziska obejmujące różnorodne publikacje z wiarygodnych źródeł, a my udostępniamy je na stronie <a { $pocket_home_attrs }>{ $pocket_home_domain }</a>, <a { $pocket_and_firefox_attrs }>{ -brand-name-pocket } dla przeglądarki { -brand-name-firefox }</a>, w naszym codziennym newsletterze &lt;a { $pocket_daily_newsletter_attrs }&gt;</a>, a także w <a { $pocket_app_attrs }>aplikacji { -brand-name-pocket }</a>. Nasze rekomendacje są dostępne głównie w języku angielskim i niemieckim, ale liczymy na to, że w przyszłości będziemy udostępniać więcej publikacji w innych językach.
 
 pocket-about-use-pocket-your-way = Korzystaj z { -brand-name-pocket } jak chcesz
 

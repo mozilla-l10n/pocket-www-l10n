@@ -27,7 +27,7 @@ pocket-about-internet-filled-with-buried-treasures = Internet trabocca di tesori
 #   $pocket_and_firefox_attrs (string) - attrs for hyperlink
 #   $pocket_daily_newsletter_attrs (string) - attrs for hyperlink
 #   $pocket_app_attrs (string) - attrs for hyperlink
-pocket-about-our-curators-vet-the-most-fascinating = I nostri esperti valutano attentamente i contenuti più interessanti scovati online per formare una gamma quanto più eterogenea di pubblicazioni da fonti affidabili, da condividere su <a { $pocket_home_attrs }>{ $pocket_home_domain }</a>, <a { $pocket_and_firefox_attrs }>{ -brand-name-pocket } per { -brand-name-firefox }</a>, oltre a nella nostra newsletter quotidiana { $pocket_daily_newsletter_attrs }</a> e <a { $pocket_app_attrs }>sull'app { -brand-name-pocket }</a>. I nostri suggerimenti sono disponibili principalmente in inglese e tedesco, anche se in futuro prevediamo di integrare altre lingue.
+pocket-about-our-curators-vet-the-most-fascinating = I nostri esperti valutano attentamente i contenuti più interessanti scovati online per formare una gamma quanto più eterogenea di pubblicazioni da fonti affidabili, da condividere su <a { $pocket_home_attrs }>{ $pocket_home_domain }</a>, <a { $pocket_and_firefox_attrs }>{ -brand-name-pocket } per { -brand-name-firefox }</a>, oltre a nella nostra newsletter quotidiana &lt;a { $pocket_daily_newsletter_attrs }</a> e <a { $pocket_app_attrs }>sull'app { -brand-name-pocket }</a>. I nostri suggerimenti sono disponibili principalmente in inglese e tedesco, anche se in futuro prevediamo di integrare altre lingue.
 
 pocket-about-use-pocket-your-way = Usa { -brand-name-pocket } a modo tuo
 

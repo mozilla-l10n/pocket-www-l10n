@@ -27,7 +27,7 @@ pocket-about-internet-filled-with-buried-treasures = 인터넷은 수많은 보�
 #   $pocket_and_firefox_attrs (string) - attrs for hyperlink
 #   $pocket_daily_newsletter_attrs (string) - attrs for hyperlink
 #   $pocket_app_attrs (string) - attrs for hyperlink
-pocket-about-our-curators-vet-the-most-fascinating = Pocket의 큐레이터는 콘텐츠의 출처가 다양하게 분포되어 있는지, 믿을 수 있는 정확한 정보인지를 조사하여 매력적인 콘텐츠를 엄선한 뒤 이를 <a { $pocket_home_attrs }>{ $pocket_home_domain }</a>, <a { $pocket_and_firefox_attrs }>{ -brand-name-firefox }용 { -brand-name-pocket }</a>, { $pocket_daily_newsletter_attrs }</a>, <a { $pocket_app_attrs }>{ -brand-name-pocket } 앱</a>에 공유합니다. 추천 스토리는 대부분 영어 및 독일어로 제공되고 있으며, 앞으로 더 많은 언어가 지원될 예정입니다.
+pocket-about-our-curators-vet-the-most-fascinating = Pocket의 큐레이터는 콘텐츠의 출처가 다양하게 분포되어 있는지, 믿을 수 있는 정확한 정보인지를 조사하여 매력적인 콘텐츠를 엄선한 뒤 이를 <a { $pocket_home_attrs }>{ $pocket_home_domain }</a>, <a { $pocket_and_firefox_attrs }>{ -brand-name-firefox }용 { -brand-name-pocket }</a>, &lt;a { $pocket_daily_newsletter_attrs }</a>, <a { $pocket_app_attrs }>{ -brand-name-pocket } 앱</a>에 공유합니다. 추천 스토리는 대부분 영어 및 독일어로 제공되고 있으며, 앞으로 더 많은 언어가 지원될 예정입니다.
 
 pocket-about-use-pocket-your-way = 나만의 { -brand-name-pocket } 사용법
 
