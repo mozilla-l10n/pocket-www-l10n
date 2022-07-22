@@ -21,13 +21,6 @@ pocket-about-find-hidden-gems = 寻找隐藏的珍宝
 
 pocket-about-internet-filled-with-buried-treasures = 互联网上到处都是埋藏的宝藏，而我们充满活力、博览群书的社区确实有找到宝藏的诀窍。通过保存和阅读相关内容的行为，{ -brand-name-pocket } 用户发出了可以找到精彩内容的信号。
 
-# Variables:
-#   $pocket_home_attrs (string) attributes for a HTML link
-#   $pocket_home_domain (string) GetPocket.com - attrs for hyperlink
-#   $pocket_and_firefox_attrs (string) - attrs for hyperlink
-#   $pocket_daily_newsletter_attrs (string) - attrs for hyperlink
-#   $pocket_app_attrs (string) - attrs for hyperlink
-pocket-about-our-curators-vet-the-most-fascinating = 我们的策划者审查了最精彩的内容，确保它们来自不同的出版物，并具有可靠准确报道的记录，我们会在 <a { $pocket_home_attrs }>{ $pocket_home_domain }</a>、<a { $pocket_and_firefox_attrs }>{ -brand-name-firefox } 版 { -brand-name-pocket }</a>、我们的&lt;a { $pocket_daily_newsletter_attrs }&quot;&gt;每日时事通讯</a>，以及 <a { $pocket_app_attrs }>{ -brand-name-pocket }</a> 应用进行分享。我们的推荐主要为英语和德语，但我们期待着在未来以更多的语言版本进行分享。
 
 pocket-about-use-pocket-your-way = 以您自己的方式使用 { -brand-name-pocket }
 

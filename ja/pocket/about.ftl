@@ -21,13 +21,6 @@ pocket-about-find-hidden-gems = まだ見ぬ宝物を見つける
 
 pocket-about-internet-filled-with-buried-treasures = インターネットでは、至る所に「宝物」となるコンテンツがちりばめられています。Pocket の経験豊富で活気に満ちたコミュニティが、そんな宝物を見つけるためのコツを教えてくれるでしょう。{ -brand-name-pocket } のユーザーは、コンテンツを保存して閲覧することで、魅力にあふれたコンテンツが見つかる場所を伝えることにもなります。
 
-# Variables:
-#   $pocket_home_attrs (string) attributes for a HTML link
-#   $pocket_home_domain (string) GetPocket.com - attrs for hyperlink
-#   $pocket_and_firefox_attrs (string) - attrs for hyperlink
-#   $pocket_daily_newsletter_attrs (string) - attrs for hyperlink
-#   $pocket_app_attrs (string) - attrs for hyperlink
-pocket-about-our-curators-vet-the-most-fascinating = Pocket のキュレーターは、質の高いコンテンツを見つけ、信頼できる正確な情報を提供している実績のある多様なソースを網羅したうえで、<a { $pocket_home_attrs }>{ $pocket_home_domain }</a>、<a { $pocket_and_firefox_attrs }>{ -brand-name-firefox } 用 { -brand-name-pocket }</a>、&lt;a { $pocket_daily_newsletter_attrs }&quot;&gt;日刊ニュースレター</a>、<a { $pocket_app_attrs }>{ -brand-name-pocket } アプリ</a>で共有します。Pocket のおすすめコンテンツは主に英語とドイツ語で閲覧でき、今後は他の言語でも展開していく予定です。
 
 pocket-about-use-pocket-your-way = { -brand-name-pocket } を自分らしく使う
 
