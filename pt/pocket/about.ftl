@@ -21,6 +21,13 @@ pocket-about-find-hidden-gems = Encontre pérolas escondidas
 
 pocket-about-internet-filled-with-buried-treasures = A internet está cheia de tesouros escondidos e a nossa comunidade vibrante e bem informada tem um verdadeiro dom para os encontrar. Através da ação de guardar e consumir conteúdo, os utilizadores do { -brand-name-pocket } sinalizam fascínio onde este pode ser encontrado.
 
+# Variables:
+#   $pocket_home_attrs (string) attributes for a HTML link
+#   $pocket_home_domain (string) GetPocket.com - attrs for hyperlink
+#   $pocket_and_firefox_attrs (string) - attrs for hyperlink
+#   $pocket_daily_newsletter_attrs (string) - attrs for hyperlink
+#   $pocket_app_attrs (string) - attrs for hyperlink
+pocket-about-our-curators-vet-the-most-fascinating = Os nossos curadores avaliam as descobertas mais fascinantes para assegurar-se que são provenientes de uma grande variedade de publicações com um registo de cobertura fidedigna e correta que partilhamos em <a { $pocket_home_attrs }>{ $pocket_home_domain }</a>, <a { $pocket_and_firefox_attrs }>{ -brand-name-pocket } para { -brand-name-firefox }</a>, na nossa <a { $pocket_daily_newsletter_attrs }>newsletter diária</a> e na aplicação <a { $pocket_app_attrs }>{ -brand-name-pocket }</a>. As nossas recomendações estão disponíveis, principalmente, em Inglês e Alemão, no entanto ansiamos por partilhá-las em mais idiomas no futuro.
 
 pocket-about-use-pocket-your-way = Use o { -brand-name-pocket } como mais gostar
 
