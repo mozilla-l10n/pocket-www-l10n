@@ -21,6 +21,13 @@ pocket-about-find-hidden-gems = 尋覓有待發掘的精彩內容
 
 pocket-about-internet-filled-with-buried-treasures = 網路上到處都是有待探索的精彩內容，而我們充滿活力、博覽群書的使用者社群則非常善於發掘其中的精華。{ -brand-name-pocket } 使用者透過儲存和閱讀相關內容的行為，告訴我們哪裡能找到這些精彩內容。
 
+# Variables:
+#   $pocket_home_attrs (string) attributes for a HTML link
+#   $pocket_home_domain (string) GetPocket.com - attrs for hyperlink
+#   $pocket_and_firefox_attrs (string) - attrs for hyperlink
+#   $pocket_daily_newsletter_attrs (string) - attrs for hyperlink
+#   $pocket_app_attrs (string) - attrs for hyperlink
+pocket-about-our-curators-vet-the-most-fascinating = 我們的內容策劃人會針對最引人入勝的內容進行篩選，以確保它們來自具有準確可靠報導紀錄的各種刊物，然後我們會在 <a { $pocket_home_attrs }>{ $pocket_home_domain }</a>、<a { $pocket_and_firefox_attrs }>{ -brand-name-firefox } 版 { -brand-name-pocket }</a>、我們的 <a { $pocket_daily_newsletter_attrs }>電子日報</a>，以及 <a { $pocket_app_attrs }>{ -brand-name-pocket } 應用程式</a>中進行分享。我們的推薦主要包括英文版和德文版，不過我們希望將來能以更多種語言與各位分享。
 
 pocket-about-use-pocket-your-way = 隨心所欲使用 { -brand-name-pocket }
 
