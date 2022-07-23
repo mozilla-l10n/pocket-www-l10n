@@ -12,7 +12,7 @@ pocket-home-homepage-desc = Wenn du etwas entdeckst, das du dir später ansehen 
 pocket-home-get-right-to = Entdecke das </br>wirklich gute Zeug
 pocket-home-your-own-private = Deine eigene private Ecke im Internet, in der du Zeit mit richtig tollen Artikeln verbringen kannst.
 pocket-home-sign-up-for-pocket = Melde dich bei { -brand-name-pocket } an
-pocket-home-already-have-an-account = Du hast bereits ein Konto? { "" }
+pocket-home-already-have-an-account = Du hast bereits ein Konto?
 pocket-home-log-in = Einloggen
 
 pocket-home-save-interesting-stories = Speichere interessante Storys. Lese sie, wenn es dir passt.
