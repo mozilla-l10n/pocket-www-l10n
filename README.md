@@ -1,5 +1,7 @@
 # Developer notes
 
+[![Pocket Marketing Pages](https://github.com/mozilla-l10n/mozl10n-linter/actions/workflows/pocket.yaml/badge.svg)](https://github.com/mozilla-l10n/mozl10n-linter/actions/workflows/pocket.yaml)
+
 Pocket is translated in a similar way to Mozorg, but not entirely. This README captures things to bear in mind when working on localisation of Pocket-mode pages
 
 ## Translation service
