@@ -6,4 +6,3 @@
 ### URL: https://dev.tekcopteg.com/privacy/
 
 pocket-privacy-title = Politique de confidentialité
-pocket-tos-terms-of-service = Conditions générales d’utilisation de Pocket
