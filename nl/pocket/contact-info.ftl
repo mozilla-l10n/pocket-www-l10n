@@ -34,9 +34,6 @@ contact-jobs = Vacatures
 contact-view-job-page = Voor openstaande vacatures bij { -brand-name-pocket } bezoek je onze <a href="{ $jobs }">vacaturepagina</a>.
 contact-security = Beveiliging
 # Variables:
-#   $security_bug (url) link to https://www.mozilla.org/en-US/about/governance/policies/security-group/bugs/
-contact-report-security-vulnerability = Als je denkt een beveiligingslek te hebben ontdekt in { -brand-name-pocket }, volg je de procedure voor het melden van bugs op de <a href="{ $security_bug }">website van Mozilla</a>.
-# Variables:
 #   $security_email_link (email link) mailto:security@getpocket.com
 #   $security_email (string) security@getpocket.com
 contact-related-to-security = Voor vragen over beveiliging neem je contact met ons op via <a href="{ $security_email_link }">{ $security_email }</a>.

@@ -34,9 +34,6 @@ contact-jobs = 채용
 contact-view-job-page = { -brand-name-pocket }의 모든 채용 정보는 <a href="{ $jobs }">채용 페이지</a>에서 확인하시기 바랍니다.
 contact-security = 보안
 # Variables:
-#   $security_bug (url) link to https://www.mozilla.org/en-US/about/governance/policies/security-group/bugs/
-contact-report-security-vulnerability = { -brand-name-pocket }의 보안 취약점을 발견하신 경우 <a href="{ $security_bug }">Mozilla 보안 페이지</a>에 있는 Mozilla 버그 보고 절차에 따라 해당 보안 취약점을 신고하시기 바랍니다.
-# Variables:
 #   $security_email_link (email link) mailto:security@getpocket.com
 #   $security_email (string) security@getpocket.com
 contact-related-to-security = 보안에 관한 질문이 있으시면 <a href="{ $security_email_link }">{ $security_email }</a>으로 문의하시기 바랍니다.
