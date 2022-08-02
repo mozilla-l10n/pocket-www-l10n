@@ -6,3 +6,4 @@
 ### URL: https://dev.tekcopteg.com/privacy/
 
 pocket-privacy-title = Política de Privacidade
+pocket-tos-terms-of-service = Termos de serviço do { -brand-name-pocket }
