@@ -35,7 +35,7 @@ contact-view-job-page = { -brand-name-pocket } で募集中の職種をすべて
 contact-security = セキュリティ
 # Variables:
 #   $security_bug (url) link to https://www.mozilla.org/en-US/about/governance/policies/security-group/bugs/
-contact-report-security-vulnerability = { -brand-name-pocket } をご利用中にセキュリティ上の脆弱性を発見された方は、<a href="{ $security_bug }">{ -brand-name-mozilla }’s Security ペー</a>ジに記載の { -brand-name-mozilla } バグ報告プロセスに従ってください。
+contact-report-security-vulnerability = { -brand-name-pocket } をご利用中にセキュリティ上の脆弱性を発見された方は、<a href="{ $security_bug }">{ -brand-name-mozilla } のセキュリティペ</a>ージに記載の { -brand-name-mozilla } バグ報告プロセスに従ってください。
 # Variables:
 #   $security_email_link (email link) mailto:security@getpocket.com
 #   $security_email (string) security@getpocket.com
