@@ -27,7 +27,7 @@ pocket-jobs-ergonomic = 인체공학적 데스크 셋업
 pocket-jobs-catered-lunch = 주 3일 점심 식사 제공
 pocket-jobs-lots-of-free = 다양한 간식과 음료 무료 제공
 # idiom "Stuffing your pocket" - generally means "Making and saving money"
-pocket-jobs-stuffing = 복지
+pocket-jobs-stuffing = { -brand-name-pocket } 의 복지
 pocket-jobs-your-ideal = 최고의 컴퓨터 셋업
 pocket-jobs-401k = 401(k) 퇴직연금 지원
 pocket-jobs-healthcare = Healthcare & Dependent Care FSA(의료 및 자녀 양육 비용 계좌)
