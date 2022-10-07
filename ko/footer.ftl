@@ -53,4 +53,4 @@ pocket-footer-publishers = 게시자
 pocket-footer-developers = 개발자
 pocket-footer-support = 지원
 pocket-footer-jobs = 채용
-pocket-footer-read-it-later = { $current_year }{ -brand-name-read-it-later }
+pocket-footer-read-it-later = { $current_year } { -brand-name-read-it-later }

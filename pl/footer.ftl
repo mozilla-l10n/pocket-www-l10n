@@ -53,4 +53,4 @@ pocket-footer-publishers = Wydawcy
 pocket-footer-developers = Programiści
 pocket-footer-support = Pomoc techniczna
 pocket-footer-jobs = Praca
-pocket-footer-read-it-later = { $current_year }{ -brand-name-read-it-later }
+pocket-footer-read-it-later = { $current_year } { -brand-name-read-it-later }

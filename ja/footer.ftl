@@ -53,4 +53,4 @@ pocket-footer-publishers = 出版者向け
 pocket-footer-developers = 開発者向け
 pocket-footer-support = サポート
 pocket-footer-jobs = 採用情報
-pocket-footer-read-it-later = { $current_year }{ -brand-name-read-it-later }
+pocket-footer-read-it-later = { $current_year } { -brand-name-read-it-later }

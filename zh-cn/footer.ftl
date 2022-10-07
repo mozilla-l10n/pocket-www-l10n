@@ -53,4 +53,4 @@ pocket-footer-publishers = 发布者
 pocket-footer-developers = 开发商
 pocket-footer-support = 客户支持
 pocket-footer-jobs = 工作机会
-pocket-footer-read-it-later = { $current_year }{ -brand-name-read-it-later }
+pocket-footer-read-it-later = { $current_year } { -brand-name-read-it-later }
