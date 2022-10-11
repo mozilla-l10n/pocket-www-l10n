@@ -36,6 +36,7 @@ pocket-home-suggested-tags = おすすめタグ
 pocket-home-full-text-search = 全文検索
 pocket-home-unlimited-highlights = 何度でもハイライト
 pocket-home-premium-fonts = Premium 専用フォント
+pocket-home-get-pocket-premium = { -brand-name-pocket-premium } を入手する
 
 pocket-home-discover-and-save = ウェブで気になるストーリーを発見して保存
 
