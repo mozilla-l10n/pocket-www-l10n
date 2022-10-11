@@ -36,6 +36,7 @@ pocket-home-suggested-tags = 建議的標籤
 pocket-home-full-text-search = 全文檢索搜尋
 pocket-home-unlimited-highlights = 無限標記
 pocket-home-premium-fonts = Premium 字型
+pocket-home-get-pocket-premium = 取得 { -brand-name-pocket-premium }
 
 pocket-home-discover-and-save = 探索及儲存網路上最有意思的故事
 
