@@ -36,6 +36,7 @@ pocket-home-suggested-tags = 권장 태그
 pocket-home-full-text-search = 전문 검색
 pocket-home-unlimited-highlights = 무제한 하이라이트
 pocket-home-premium-fonts = 프리미엄 폰트
+pocket-home-get-pocket-premium = { -brand-name-pocket-premium } 다운로드하기
 
 pocket-home-discover-and-save = 웹에서 발견한 흥미진진한 콘텐츠를 쉽고 간편하게 저장하세요
 
