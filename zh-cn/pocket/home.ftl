@@ -36,6 +36,7 @@ pocket-home-suggested-tags = 建议的标记
 pocket-home-full-text-search = 全文搜索
 pocket-home-unlimited-highlights = 无限突出显示
 pocket-home-premium-fonts = Premium 字体
+pocket-home-get-pocket-premium = 获取 { -brand-name-pocket-premium }
 
 pocket-home-discover-and-save = 探索并保存网络上最有趣的故事
 

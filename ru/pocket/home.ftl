@@ -36,6 +36,7 @@ pocket-home-suggested-tags = Рекомендованные теги
 pocket-home-full-text-search = Полнотекстовый поиск
 pocket-home-unlimited-highlights = Неограниченное количество пометок
 pocket-home-premium-fonts = Premium-шрифты
+pocket-home-get-pocket-premium = Приобретите { -brand-name-pocket-premium }
 
 pocket-home-discover-and-save = Находите и сохраняйте самые интересные истории в Интернете
 
