@@ -36,6 +36,7 @@ pocket-home-suggested-tags = gesuggereerde tags
 pocket-home-full-text-search = Volledige tekst doorzoeken
 pocket-home-unlimited-highlights = Onbeperkte markeringen
 pocket-home-premium-fonts = Premium-lettertypen
+pocket-home-get-pocket-premium = { -brand-name-pocket-premium } downloaden
 
 pocket-home-discover-and-save = Ontdek en bewaar de beste verhalen die het internet te bieden heeft
 

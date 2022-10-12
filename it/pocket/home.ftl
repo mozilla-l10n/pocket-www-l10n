@@ -36,6 +36,7 @@ pocket-home-suggested-tags = Tag suggeriti
 pocket-home-full-text-search = Ricerca a tutto testo
 pocket-home-unlimited-highlights = Highlight illimitati
 pocket-home-premium-fonts = Font Premium
+pocket-home-get-pocket-premium = Scarica { -brand-name-pocket-premium }
 
 pocket-home-discover-and-save = Scopri e salva le storie più interessanti del web
 
