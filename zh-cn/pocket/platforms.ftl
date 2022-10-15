@@ -39,3 +39,4 @@ pocket-platform-get-app = 获得应用程序
 pocket-platform-install = 安装
 pocket-platform-log-in = 登录
 pocket-platform-browser-installing = 安装 { -brand-name-pocket } 浏览器扩展件将会安装保存按钮，让您点击一下即可保存项目。
+pocket-platform-install-bookmarklet = 安装小书签

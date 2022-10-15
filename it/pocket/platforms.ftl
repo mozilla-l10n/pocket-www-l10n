@@ -39,3 +39,4 @@ pocket-platform-get-app = Scarica l'applicazione
 pocket-platform-install = Installa
 pocket-platform-log-in = Accedi
 pocket-platform-browser-installing = Con l'estensione di { -brand-name-pocket } per browser verranno installati pulsanti che ti permetteranno di salvare contenuti con un semplice clic.
+pocket-platform-install-bookmarklet = Installa il bookmarklet

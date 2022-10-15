@@ -39,3 +39,4 @@ pocket-platform-get-app = Получить приложение
 pocket-platform-install = Установить
 pocket-platform-log-in = Войти в систему
 pocket-platform-browser-installing = При установке расширения { -brand-name-pocket } для браузера устанавливаются кнопки, с помощью которых вы сможете сохранять материалы в один клик.
+pocket-platform-install-bookmarklet = Установить букрмарклет

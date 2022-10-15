@@ -39,3 +39,4 @@ pocket-platform-get-app = 앱 가져오기
 pocket-platform-install = 설치
 pocket-platform-log-in = 로그인
 pocket-platform-browser-installing = { -brand-name-pocket } 브라우저 확장을 설치하면 클릭 한 번으로 페이지를 저장할 수 있는 버튼이 생성됩니다.
+pocket-platform-install-bookmarklet = 북마크릿 설치

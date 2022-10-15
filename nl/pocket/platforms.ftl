@@ -39,3 +39,4 @@ pocket-platform-get-app = Download de app
 pocket-platform-install = Installeren
 pocket-platform-log-in = Inloggen
 pocket-platform-browser-installing = Bij het installeren van de { -brand-name-pocket }-browserextensie installeer je knoppen waarmee je items met één klik kunt opslaan.
+pocket-platform-install-bookmarklet = Installeer de bladwijzer

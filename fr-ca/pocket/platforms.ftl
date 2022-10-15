@@ -39,3 +39,4 @@ pocket-platform-get-app = Obtenir l'application
 pocket-platform-install = Installation
 pocket-platform-log-in = Vous connecter
 pocket-platform-browser-installing = L'extension pour navigateur { -brand-name-pocket } ajoute des boutons permettant de sauvegarder des items en un simple clic.
+pocket-platform-install-bookmarklet = Installer le signapplet

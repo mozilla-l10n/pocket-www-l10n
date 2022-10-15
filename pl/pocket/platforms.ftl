@@ -39,3 +39,4 @@ pocket-platform-get-app = Pobierz aplikację
 pocket-platform-install = Instalacja
 pocket-platform-log-in = Zalogować się
 pocket-platform-browser-installing = Po zainstalowaniu rozszerzenia { -brand-name-pocket } w przeglądarce zainstalowane zostaną przyciski umożliwiające zapisywanie elementów za pomocą jednego kliknięcia.
+pocket-platform-install-bookmarklet = Zainstaluj bookmarklet

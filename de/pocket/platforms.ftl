@@ -39,3 +39,4 @@ pocket-platform-get-app = App holen
 pocket-platform-install = Installieren
 pocket-platform-log-in = Einloggen
 pocket-platform-browser-installing = Das Installieren der { -brand-name-pocket }-Browsererweiterung installiert Schaltflächen, die es dir ermöglichen, Elemente mit nur einem Klick zu speichern.
+pocket-platform-install-bookmarklet = Bookmarklet installieren

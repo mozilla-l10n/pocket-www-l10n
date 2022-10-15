@@ -39,3 +39,4 @@ pocket-platform-get-app = アプリをゲット
 pocket-platform-install = インストール
 pocket-platform-log-in = ログイン
 pocket-platform-browser-installing = { -brand-name-pocket } ブラウザー拡張機能をインストールすると、クリック 1 つでアイテムを保存できるボタンがインストールされます。
+pocket-platform-install-bookmarklet = ブックマークレットをインストール

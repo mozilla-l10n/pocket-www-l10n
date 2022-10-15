@@ -39,3 +39,4 @@ pocket-platform-get-app = 取得應用程式
 pocket-platform-install = 安裝
 pocket-platform-log-in = 登入
 pocket-platform-browser-installing = 安裝 { -brand-name-pocket } 瀏覽器擴充件後，您的瀏覽器中便會新增按鈕，按一下即可儲存項目。
+pocket-platform-install-bookmarklet = 安裝小書籤
