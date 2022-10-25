@@ -17,6 +17,8 @@ pocket-nav-sign-up = 注册
 
 pocket-nav-home = 主页
 pocket-nav-my-list = 我的列表
+# "Saves" refers to a list of links saved by the user. It is a replacement for "My List"
+pocket-nav-saves = 保存内容
 pocket-nav-discover = 发现
 pocket-nav-collections = 收集
 pocket-nav-archive = 存档

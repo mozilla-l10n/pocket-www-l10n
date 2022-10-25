@@ -17,6 +17,8 @@ pocket-nav-sign-up = Zarejestruj się
 
 pocket-nav-home = Strona główna
 pocket-nav-my-list = Moja lista
+# "Saves" refers to a list of links saved by the user. It is a replacement for "My List"
+pocket-nav-saves = Zapisane treści
 pocket-nav-discover = Odkryj
 pocket-nav-collections = Kolekcje
 pocket-nav-archive = Archiwizuj
