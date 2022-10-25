@@ -17,6 +17,8 @@ pocket-nav-sign-up = 登録
 
 pocket-nav-home = ホーム
 pocket-nav-my-list = マイリスト
+# "Saves" refers to a list of links saved by the user. It is a replacement for "My List"
+pocket-nav-saves = 保存リスト
 pocket-nav-discover = 発見
 pocket-nav-collections = コレクション
 pocket-nav-archive = アーカイブ
