@@ -18,7 +18,7 @@ pocket-nav-sign-up = 등록
 pocket-nav-home = 홈
 pocket-nav-my-list = 내 목록
 # "Saves" refers to a list of links saved by the user. It is a replacement for "My List"
-pocket-nav-saves = 저장 목록
+pocket-nav-saves = 저장
 pocket-nav-discover = 검색
 pocket-nav-collections = 콜렉션
 pocket-nav-archive = 보관소
