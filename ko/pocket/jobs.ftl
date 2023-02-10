@@ -8,7 +8,7 @@ pocket-jobs-title = 채용
 pocket-jobs-join-the-pocket = { -brand-name-pocket } 팀과 함께하세요
 # Variables:
 #   $pocket_photo_author (String)
-pocket-jobs-photo-by = 사진 출처 { $pocket_photo_author }<strong></strong>
+pocket-jobs-photo-by = 사진 출처 { $pocket_photo_author }
 pocket-jobs-we-invite = 샌프란시스코의 작은 팀에서 핵심 포지션을 맡아 줄 분들을 초대합니다. Pocket은 시간과 관심을 투자할 가치가 충분한 콘텐츠를 자유롭게 저장하고 소비할 수 있도록 도와주는 기업으로, 많은 분들이 쾌적한 환경에서 좀 더 쉽고 간편하게 양질의 콘텐츠를 즐길 수 있도록 노력하고 있습니다.
 pocket-jobs-if-you-are-passionate = 기술을 통한 삶의 질 향상에 관심이 있다면 { -brand-name-pocket }이 그 꿈을 이룰 좋은 기회가 되어 줄 것입니다. 고될지도 모를 그 여정을 Pocket과 함께하는 건 어떨까요? Pocket은 소규모 팀이지만 오히려 그렇기 때문에 팀원 개인이 다양한 기기와 플랫폼을 이용하는 수많은 사람들에게 엄청난 영향을 미치는 일들을 처음부터 끝까지 책임지고 진행할 수 있습니다. 개인에게 다양한 업무 기회가 주어지는 것이 장점이라고 할 수 있죠.
 pocket-jobs-nearly-million = 지금까지 약 3000만 명의 사람들이 30억 개 이상의 아티클과 동영상을 { -brand-name-pocket }에 저장했습니다. 매일 전 세계 사람들이 { -brand-name-pocket }을 이용해 관심 콘텐츠를 저장하고 읽고 있으며, 이를 통해 웹에서 실제로 읽거나 시청할 가치가 있는 것은 무엇인지에 대한 사람들 특유의 관점이 드러납니다.
